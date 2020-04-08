@@ -42,3 +42,5 @@ USER
 # Get information
 
 you can also send fake auth by sending `a patate saucisse` it will return some information with some base64 data
+
+<img width="1280" alt="homepage" src="https://raw.githubusercontent.com/jenaye/netasq-1300/master/exemple.png"> 
